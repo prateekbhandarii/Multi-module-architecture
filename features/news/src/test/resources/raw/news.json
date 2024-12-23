@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Nikki Birrell",
+      "title": "How to make the perfect paella: Top tips for Spain’s signature dish",
+      "description": "Discover the steps to creating a flavour-packed paella with authentic Spanish flair.",
+      "url": "https://www.nzherald.co.nz/lifestyle/how-to-make-the-perfect-paella-top-tips-for-spains-signature-dish/PEP6KG3SARCJHPNQPLLUM5F3Y4/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/4FIZLJ6OWRGHDPMEQELDNRYBSA.jpg?auth=c0aaa858210bcf9082308b1f755a397ea26bc969134ed579da0c9069ed8cc6b7&width=1200&height=675&quality=70&focal=817%2C559&smart=false",
+      "publishedAt": "2024-11-08T23:00:00Z",
+      "content": "Heat is another important factor. Traditionally, paella is cooked over an open flame or a gas burner, which provides even, controllable heat. If using a stove, ensure that the heat source reaches acr… [+3361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Zealand Herald"
+      },
+      "author": "Alyse Wright",
+      "title": "Hotel review: Lanson Place Parliament Gardens, Melbourne",
+      "description": "The perfect base to discover everything Melbourne has to offer.",
+      "url": "https://www.nzherald.co.nz/travel/hotel-review-lanson-place-parliament-gardens-melbourne/Q5D6KPCLZVBN3DJH3FCH2MUMAM/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/LBNGVX3N5FAOZFN5JVRTX5CRRU.jpg?auth=6e4b8ff78d038f542eaa3c6b0bdee324635b05eed4607d522264176fb82474e6&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2024-11-08T23:00:00Z",
+      "content": "First Impressions: The Lanson Place brand is renowned for family-like hospitality and that is exactly what they deliver. Upon walking through the door you are greeted with warmth from the accommodati… [+4412 chars]"
+    }
+  ]
+}
